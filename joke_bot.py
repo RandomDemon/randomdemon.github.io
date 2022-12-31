@@ -24,4 +24,4 @@ async def on_message(message):
         random_joke = programmer-jokes[random.randint(0, len(jokes) - 1)]
         await message.channel.send(random_joke)
 
-client.run('MTA1ODIzMjAyNzkwOTk4ODM3Mg.GKBs70.Y211I0niusBd3hAq8S7wie_gLGiVt-cNlrwzpM')
+client.run('MTA1ODIzMjAyNzkwOTk4ODM3Mg.G_gcJH.hYMuenxdE4IaIJhbc_iLd6K7-TVMkkawSOQ304')
